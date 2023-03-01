@@ -2,7 +2,7 @@
 name: Template for Python
 about: Template for Python
 title: ''
-labels: Python
+labels: Easy, Python
 assignees: ''
 
 ---

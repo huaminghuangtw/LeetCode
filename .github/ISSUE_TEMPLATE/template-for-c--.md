@@ -2,7 +2,7 @@
 name: Template for C++
 about: Template for C++
 title: ''
-labels: C++
+labels: C++, Easy
 assignees: ''
 
 ---
