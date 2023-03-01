@@ -9,8 +9,9 @@ assignees: ''
 
 # [](https://leetcode.com/problems/)
 
-##Code
-```
+## Code
+```python
+
 ```
 
-##Notes
+## Notes
