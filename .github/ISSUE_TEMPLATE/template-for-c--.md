@@ -2,12 +2,12 @@
 name: Template for C++
 about: Template for C++
 title: ''
-labels: C++, Medium
+labels: C++, Hard
 assignees: ''
 
 ---
 
-# []()
+# 
 
 ## Code
 ```cpp
